@@ -88,7 +88,6 @@
     padding: 10px 40px;
     position: relative;
     background-color: inherit;
-
 }
 
 /* The circles on the timeline */
@@ -106,7 +105,6 @@
     margin-top: 1px;
 }
 .end_timeline {
-    /*padding: 10px 40px;*/
     position: relative;
     background-color: inherit;
 
@@ -118,7 +116,6 @@
     height: 2px;
     left: -49px;
     background-color: grey;
-    /*border: 4px solid #2d2e2e;*/
     bottom:  -8px;
     border-radius: 2%;
     z-index: 1;
@@ -186,4 +183,11 @@
 		padding-left: 20px;
 
 	}
+
+}
+.cv_download{
+	color: #6c757d;
+}
+.cv_download:hover{
+	color: white;
 }
